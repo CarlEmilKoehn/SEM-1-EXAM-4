@@ -1,10 +1,9 @@
-import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class FlowerShop {
     private ArrayList<String> flowers;
-    private double total;
+    private int total;
 
     public FlowerShop() {
 
